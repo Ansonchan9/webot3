@@ -1,0 +1,22 @@
+{
+    "EARTHQUAKE_LOCAL_API_URL": "https://opendata.cwb.gov.tw/api/v1/rest/datastore/",
+    "Air_Quality_API_URL": "https://api.waqi.info/feed",
+    "CWB_TYPHOON_IMG_URL": "https://www.cwb.gov.tw/Data/warning/W21_C.png",
+    "CWB_TYPHOON_SITE_URL": "https://www.cwb.gov.tw/V8/C/P/Warning/W21.html",
+    "WXKITTY_FB_URL": "http://fb.me/WxKitty.tw",
+    "CWB_URL": "http://www.cwb.gov.tw",
+    "WEATHER_BOT_URL": "https://github.com/weather-bot/weather-bot/",
+    "AIR_STATION_API_URL": "https://data.epa.gov.tw/api/v1/aqx_p_432?format=json&limit=100&api_key=9be7b239-557b-4c10-9775-78cadfc555e9",
+    "WEATHER_IMG_URL": "https://www.cwb.gov.tw/Data/fcst_img/",
+    "RADAR_IMG_URL_PREFIX": "https://www.cwb.gov.tw/Data/radar",
+    "SATELLITE_IMG_URL_PREFIX": "https://www.cwb.gov.tw/Data/satellite/LCC_IR1_CR_1000/LCC_IR1_CR_1000",
+    "OBS_STATION_API_URL": "https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0001-001",
+    "CWB_EARTHQUAKE_URL": "https://www.cwb.gov.tw/V8/C/E/index.html",
+    "CWB_TYPHOON_URL": "https://www.cwb.gov.tw/V7/prevent/typhoon/ty.htm",
+    "CWB_INTRO_URL_PRIFIX": "https://www.cwb.gov.tw/V8/C/W/County/index.html",
+    "LINE_BOT_API_BASE_URL": "https://api.line.me/v2/bot",
+    "GOOGLE_GEO_API_URL": "https://maps.googleapis.com/maps/api/geocode",
+    "WXKITTY_API_URL": "http://140.112.67.199:8000",
+    "DARKSKY_API_URL": "https://api.darksky.net/forecast",
+    "TAIWAN_OVERALL": "https://www.ttv.com.tw/news/weather/today.asp"
+}
